@@ -13,3 +13,4 @@ Schema Design: Explanation of the schema design used for data analysis, along wi
 Queries and Visualizations: Various SQL queries and accompanying visualizations to answer key questions about HIV/AIDS data, including estimates of global HIV cases, regional variations, ART coverage, and perinatal transmission.
 
 The report concludes with a summary of findings, highlighting the persistent challenges in addressing the HIV/AIDS epidemic globally and the importance of continued efforts to improve access to care and prevention measures.
+(https://github.com/AkshayBhujbal1995/HIV-AIDS-Dataset-Analysis-Report/blob/main/HIV%20Analysis%20Report.pdf)
